@@ -25,7 +25,7 @@ Author: Juliana Sahagun
 1.   Fruit and Vegatables
 2.   Snack Foods
 3.   Household
-#### Visual 2 Five Number Summaray for Each Store
+#### Visual 2 Five Number Summary for Each Store
 ![image](https://user-images.githubusercontent.com/104885846/176869925-ca3c5967-8e06-4306-a682-bf37e54753b7.png)
 
 - The boxplot indicates that Supermarket 'Type3' has the highest sales while 'Grocery Store' has the lowest.
