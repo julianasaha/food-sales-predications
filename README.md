@@ -1,6 +1,6 @@
 # Predicting Food Sales
 Author: Juliana Sahagun
-## Objective: The purpose is to help the retailer understand the properties of products and outlets that play crucial roles in increasing sales.
+## Goal: The goal is to help the retailer understand the properties of products and outlets that play crucial roles in increasing sales.
 
 ### Data:
 
